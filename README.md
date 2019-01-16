@@ -1,1 +1,5 @@
 # Mein Dokumentationsprojekt
+
+## Ausgangslage
+
+Katastrophe
